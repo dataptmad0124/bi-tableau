@@ -1,0 +1,5 @@
+https://public.tableau.com/app/profile/juan.manuel.pardo5300/viz/Libro3_final2/Historia1?publish=yes
+
+
+Para ver de hoja por hoja, ir a "Historia1" y cambiarlo por "Hoja1" (por ejemplo). 
+En total hay 12 hojas.
